@@ -25,7 +25,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@MIDHUNKMKM/StringGen)
 ### Locally 🏆
 ```
-$ git clone https://github.com/DevsExpo/FridayUserbot
+$ git clone https://github.com/SakshamMishra12/FridayUserbot
 $ cd FridayUserBot
 $ python(3) string_gen.py
 ```
